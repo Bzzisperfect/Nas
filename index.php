@@ -41,5 +41,24 @@ $nasvai=array(  // Создаем массив
         "Текст4",
 	);
 print_r($nasvai); // Вывод массива
+
+$int=10;
+$str="10";
+if($int===$str)
+{
+echo "guchi mmeyn";
+}
+else
+{
+echo "ne guchi mmeyn";
+}
+
+
+echo"\xA1\xff\x11";
+echo"\x00\x20\x40";
+
+
+
 ?>
+
 
